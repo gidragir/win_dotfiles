@@ -1,0 +1,188 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Homepage",
+      "path": "HUB/Homepage.md"
+    },
+    {
+      "basename": "General",
+      "path": "ZETA/CHEATSHEET/Hotkeys/General.md"
+    },
+    {
+      "basename": "Dailydev",
+      "path": "PARA/SOURCE/Dailydev.md"
+    },
+    {
+      "basename": "2024-12-11 2",
+      "path": "ZETA/PERMANENT/LINKS/2024-12-11 2.md"
+    },
+    {
+      "basename": "2024-12-11 ",
+      "path": "ZETA/PERMANENT/LINKS/2024-12-11 .md"
+    },
+    {
+      "basename": "Etc",
+      "path": "PARA/SOURCE/Etc.md"
+    },
+    {
+      "basename": "Credentials",
+      "path": "PARA/RESOURCES/Credentials.md"
+    },
+    {
+      "basename": "Blank",
+      "path": "ZETA/FLEETING/Blank.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "PARA/RESOURCES/DOCUMENTATIONS/Docker.md"
+    },
+    {
+      "basename": "Habr",
+      "path": "PARA/SOURCE/Habr.md"
+    },
+    {
+      "basename": "Links",
+      "path": "ZETA/PERMANENT/Links.md"
+    },
+    {
+      "basename": "Project configs",
+      "path": "PARA/RESOURCES/DOCUMENTATIONS/Project configs.md"
+    },
+    {
+      "basename": "Tsconfig",
+      "path": "PARA/RESOURCES/DOCUMENTATIONS/NodeJS/Tsconfig.md"
+    },
+    {
+      "basename": "Arch",
+      "path": "PARA/RESOURCES/DOCUMENTATIONS/Arch.md"
+    },
+    {
+      "basename": "Eslint",
+      "path": "PARA/RESOURCES/DOCUMENTATIONS/NodeJS/Eslint.md"
+    },
+    {
+      "basename": "Astro",
+      "path": "PARA/RESOURCES/DOCUMENTATIONS/NodeJS/Astro.md"
+    },
+    {
+      "basename": "Turbo",
+      "path": "PARA/RESOURCES/DOCUMENTATIONS/Turbo.md"
+    },
+    {
+      "basename": "Zabbix",
+      "path": "PARA/RESOURCES/DOCUMENTATIONS/Zabbix.md"
+    },
+    {
+      "basename": "OS",
+      "path": "PARA/AREAS/DevOps/OS.md"
+    },
+    {
+      "basename": "TailwindCSS",
+      "path": "PARA/RESOURCES/DOCUMENTATIONS/NodeJS/TailwindCSS.md"
+    },
+    {
+      "basename": "React",
+      "path": "PARA/RESOURCES/DOCUMENTATIONS/NodeJS/React.md"
+    },
+    {
+      "basename": "Prisma",
+      "path": "PARA/RESOURCES/DOCUMENTATIONS/NodeJS/Prisma.md"
+    },
+    {
+      "basename": "NextJS",
+      "path": "PARA/RESOURCES/DOCUMENTATIONS/NodeJS/NextJS.md"
+    },
+    {
+      "basename": "NestJS",
+      "path": "PARA/RESOURCES/DOCUMENTATIONS/NodeJS/NestJS.md"
+    },
+    {
+      "basename": "Vite",
+      "path": "PARA/RESOURCES/DOCUMENTATIONS/NodeJS/Vite.md"
+    },
+    {
+      "basename": "Hotkeys cheatsheet",
+      "path": "PARA/RESOURCES/Hotkeys cheatsheet.md"
+    },
+    {
+      "basename": "PowerShell (C)",
+      "path": "ZETA/CHEATSHEET/Hotkeys/PowerShell (C).md"
+    },
+    {
+      "basename": "Tauri",
+      "path": "PARA/RESOURCES/DOCUMENTATIONS/Tauri.md"
+    },
+    {
+      "basename": "Books",
+      "path": "PARA/RESOURCES/Books.md"
+    },
+    {
+      "basename": "Windows (C)",
+      "path": "ZETA/CHEATSHEET/Commands/Windows (C).md"
+    },
+    {
+      "basename": "Git (C)",
+      "path": "ZETA/CHEATSHEET/Commands/Git (C).md"
+    },
+    {
+      "basename": "2024-12-11 1",
+      "path": "ZETA/PERMANENT/LINKS/2024-12-11 1.md"
+    },
+    {
+      "basename": "Unix",
+      "path": "PARA/RESOURCES/DOCUMENTATIONS/Unix.md"
+    },
+    {
+      "basename": "2. NodeJS",
+      "path": "PARA/AREAS/Dev/2. NodeJS.md"
+    },
+    {
+      "basename": "2. Rust",
+      "path": "PARA/AREAS/Dev/2. Rust.md"
+    },
+    {
+      "basename": "template_link_note",
+      "path": "SYSTEM/TEMPLATE/FORMAT/template_link_note.md"
+    },
+    {
+      "basename": "2024-12-11 5",
+      "path": "ZETA/PERMANENT/LINKS/2024-12-11 5.md"
+    },
+    {
+      "basename": "Hyprland",
+      "path": "PARA/RESOURCES/DOCUMENTATIONS/Hyprland.md"
+    },
+    {
+      "basename": "template_source_note",
+      "path": "SYSTEM/TEMPLATE/FORMAT/template_source_note.md"
+    },
+    {
+      "basename": "template_area",
+      "path": "SYSTEM/TEMPLATE/FORMAT/template_area.md"
+    },
+    {
+      "basename": "template_area_note",
+      "path": "SYSTEM/TEMPLATE/FORMAT/template_area_note.md"
+    },
+    {
+      "basename": "template_dev_resource_note",
+      "path": "SYSTEM/TEMPLATE/FORMAT/template_dev_resource_note.md"
+    },
+    {
+      "basename": "template_contact",
+      "path": "SYSTEM/TEMPLATE/FORMAT/template_contact.md"
+    },
+    {
+      "basename": "Linux (C)",
+      "path": "ZETA/CHEATSHEET/Commands/Linux (C).md"
+    },
+    {
+      "basename": "VS code (C)",
+      "path": "ZETA/CHEATSHEET/Hotkeys/VS code (C).md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

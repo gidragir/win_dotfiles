@@ -1,0 +1,23 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "#b4befe",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "Gradient Callouts",
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views",
+    "datacore-classes",
+    "file-explorer-wrap",
+    "clean-embed",
+    "base",
+    "show-hover-title"
+  ],
+  "showViewHeader": true,
+  "baseFontSizeAction": true,
+  "baseFontSize": 19,
+  "showRibbon": false
+}
