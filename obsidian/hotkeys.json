@@ -447,5 +447,13 @@
       ],
       "key": "E"
     }
+  ],
+  "markdown:add-alias": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
   ]
 }

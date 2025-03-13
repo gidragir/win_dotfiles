@@ -79,351 +79,251 @@
     "ZETA/PERMANENT/Links.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 235,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7833333333333333,
-      "characterCount": 19481,
-      "nonWhitespaceCharacterCount": 4143,
-      "readingTimeInMinutes": 0.8867924528301887,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1733236658316,
       "modifiedDate": 1735851482908,
       "sizeInBytes": 19982,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.7833333333333333,
-        "wordCount": 235,
-        "characterCount": 19481,
-        "nonWhitespaceCharacterCount": 4143
-      }
-    },
-    "ZETA/PERMANENT/LINKS/2024-12-11 9.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 7,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 191,
-      "nonWhitespaceCharacterCount": 182,
-      "readingTimeInMinutes": 0.026415094339622643,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1733935763933,
-      "modifiedDate": 1735851723162,
-      "sizeInBytes": 497,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.023333333333333334,
-        "wordCount": 7,
-        "characterCount": 191,
-        "nonWhitespaceCharacterCount": 182
-      },
-      "frontmatter": {
-        "created": "2024-12-11 21:49",
-        "type": "link_note",
-        "tags": [
-          "react",
-          "react/hooks"
-        ],
-        "link": "https://blog.openreplay.com/understand-react-hooks-with-these-visual-guide-cheatsheets/?ref=dailydev",
-        "connections": [
-          "[[PARA/SOURCE/Dailydev.md|Dailydev]]",
-          "[[PARA/RESOURCES/DOCUMENTATIONS/NodeJS/React.md|React]]"
-        ]
-      }
-    },
-    "ZETA/PERMANENT/LINKS/2024-12-11 8.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 7,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 191,
-      "nonWhitespaceCharacterCount": 182,
-      "readingTimeInMinutes": 0.026415094339622643,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1733935735356,
-      "modifiedDate": 1735851784548,
-      "sizeInBytes": 482,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.023333333333333334,
-        "wordCount": 7,
-        "characterCount": 191,
-        "nonWhitespaceCharacterCount": 182
-      },
-      "frontmatter": {
-        "created": "2024-12-11 21:48",
-        "type": "link_note",
-        "tags": [
-          "react",
-          "react/hooks"
-        ],
-        "link": "https://dev.to/markliu2013/top-6-react-hook-mistakes-beginners-make-1135?ref=dailydev",
-        "connections": [
-          "[[PARA/SOURCE/Dailydev.md|Dailydev]]",
-          "[[PARA/RESOURCES/DOCUMENTATIONS/NodeJS/React.md|React]]"
-        ]
-      }
-    },
-    "ZETA/PERMANENT/LINKS/2024-12-11 7.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 7,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 191,
-      "nonWhitespaceCharacterCount": 182,
-      "readingTimeInMinutes": 0.026415094339622643,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1733935599767,
-      "modifiedDate": 1735851961418,
-      "sizeInBytes": 425,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.023333333333333334,
-        "wordCount": 7,
-        "characterCount": 191,
-        "nonWhitespaceCharacterCount": 182
-      },
-      "frontmatter": {
-        "created": "2024-12-11 21:46",
-        "type": "link_note",
-        "tags": [
-          "react",
-          "react/async"
-        ],
-        "link": "https://habr.com/ru/articles/819005/",
-        "connections": [
-          "[[PARA/SOURCE/Habr.md|Habr]]",
-          "[[PARA/RESOURCES/DOCUMENTATIONS/NodeJS/React.md|React]]"
-        ]
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "ZETA/PERMANENT/LINKS/2024-12-11 6.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 7,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 191,
-      "nonWhitespaceCharacterCount": 182,
-      "readingTimeInMinutes": 0.026415094339622643,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1733935226881,
       "modifiedDate": 1733935535791,
       "sizeInBytes": 473,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.023333333333333334,
-        "wordCount": 7,
-        "characterCount": 191,
-        "nonWhitespaceCharacterCount": 182
-      },
-      "frontmatter": {
-        "created": "2024-12-11 21:40",
-        "type": "link_note",
-        "tags": null,
-        "link": "https://habr.com/ru/companies/timeweb/articles/674342/",
-        "connections": [
-          "[[PARA/SOURCE/Habr.md|Habr]]",
-          "[[PARA/RESOURCES/DOCUMENTATIONS/NodeJS/React.md|React]]",
-          "[[PARA/RESOURCES/DOCUMENTATIONS/Tauri.md|Tauri]]"
-        ]
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "ZETA/PERMANENT/LINKS/2024-12-11 9.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1733935763933,
+      "modifiedDate": 1735851723162,
+      "sizeInBytes": 497,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "ZETA/PERMANENT/LINKS/2024-12-11 8.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1733935735356,
+      "modifiedDate": 1735851784548,
+      "sizeInBytes": 482,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "ZETA/PERMANENT/LINKS/2024-12-11 7.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1733935599767,
+      "modifiedDate": 1735851961418,
+      "sizeInBytes": 425,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "ZETA/PERMANENT/LINKS/2024-12-11 5.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 6,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 158,
-      "nonWhitespaceCharacterCount": 150,
-      "readingTimeInMinutes": 0.022641509433962263,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1733934963306,
       "modifiedDate": 1733935185162,
       "sizeInBytes": 385,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.02,
-        "wordCount": 6,
-        "characterCount": 158,
-        "nonWhitespaceCharacterCount": 150
-      },
-      "frontmatter": {
-        "created": "2024-12-11 21:36",
-        "type": "link_note",
-        "tags": [
-          "setup"
-        ],
-        "link": "https://pingvinus.ru/note/hyprland-configuration",
-        "connections": [
-          "[[PARA/SOURCE/Etc.md|Etc]]",
-          "[[PARA/RESOURCES/DOCUMENTATIONS/Hyprland.md|Hyprland]]"
-        ]
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "ZETA/PERMANENT/LINKS/2024-12-11 4.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 124,
-      "nonWhitespaceCharacterCount": 117,
-      "readingTimeInMinutes": 0.018867924528301886,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1733934568884,
       "modifiedDate": 1733934571591,
       "sizeInBytes": 371,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 124,
-        "nonWhitespaceCharacterCount": 117
-      },
-      "frontmatter": {
-        "created": "2024-12-11 21:29",
-        "type": "link_note",
-        "tags": [],
-        "link": "https://dev.to/nigel_bomett/devops-monitoring-and-automation-tool-using-jenkins-prometheus-grafana-and-docker-m8n?ref=dailydev",
-        "connections": [
-          "[[PARA/SOURCE/Dailydev.md|Dailydev]]"
-        ]
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "ZETA/PERMANENT/LINKS/2024-12-11 2.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 124,
-      "nonWhitespaceCharacterCount": 117,
-      "readingTimeInMinutes": 0.018867924528301886,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1733934246870,
       "modifiedDate": 1735851831574,
       "sizeInBytes": 324,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 124,
-        "nonWhitespaceCharacterCount": 117
-      },
-      "frontmatter": {
-        "created": "2024-12-11 21:24",
-        "type": "link_note",
-        "tags": [
-          "react"
-        ],
-        "link": "https://www.syncfusion.com/blogs/post/whats-new-in-react-19?ref=dailydev",
-        "connections": [
-          "[[PARA/SOURCE/Dailydev.md|Dailydev]]"
-        ]
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "ZETA/PERMANENT/LINKS/2024-12-11 1.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 124,
-      "nonWhitespaceCharacterCount": 117,
-      "readingTimeInMinutes": 0.018867924528301886,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1733934198885,
       "modifiedDate": 1733934203991,
       "sizeInBytes": 273,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 124,
-        "nonWhitespaceCharacterCount": 117
-      },
-      "frontmatter": {
-        "created": "2024-12-11 21:23",
-        "type": "link_note",
-        "tags": [],
-        "link": "https://habr.com/ru/articles/711278/",
-        "connections": [
-          "[[PARA/SOURCE/Habr.md|Habr]]"
-        ]
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "ZETA/PERMANENT/LINKS/2024-12-11 .md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 124,
-      "nonWhitespaceCharacterCount": 117,
-      "readingTimeInMinutes": 0.018867924528301886,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1733933904097,
       "modifiedDate": 1733935891980,
       "sizeInBytes": 274,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 124,
-        "nonWhitespaceCharacterCount": 117
-      },
-      "frontmatter": {
-        "created": "2024-12-11 21:18",
-        "type": "link_note",
-        "tags": null,
-        "link": "https://stateful.com/?bb=141125",
-        "connections": [
-          "[[PARA/SOURCE/Dailydev.md|Dailydev]]"
-        ]
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "ZETA/LITERATURE/Store/От монолита к микросервисам.pdf": {
@@ -704,392 +604,251 @@
     "ZETA/LITERATURE/Notes/От монолита к микросервисам.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 156,
-      "nonWhitespaceCharacterCount": 149,
-      "readingTimeInMinutes": 0.018867924528301886,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1732432251112,
       "modifiedDate": 1733658176219,
       "sizeInBytes": 380,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 156,
-        "nonWhitespaceCharacterCount": 149
-      },
-      "frontmatter": {
-        "connections": [
-          "[[Books]]"
-        ],
-        "reference": "[[От монолита к микросервисам.pdf]]",
-        "tags": [
-          "literature_note",
-          "Mictoservices"
-        ],
-        "type": "literature_note",
-        "created": "2024-11-21 23:22",
-        "page": null,
-        "finished": false
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "ZETA/LITERATURE/Notes/Version Control with Git.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 156,
-      "nonWhitespaceCharacterCount": 149,
-      "readingTimeInMinutes": 0.018867924528301886,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1732432251112,
       "modifiedDate": 1733658204044,
       "sizeInBytes": 343,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 156,
-        "nonWhitespaceCharacterCount": 149
-      },
-      "frontmatter": {
-        "connections": [
-          "[[Books]]"
-        ],
-        "reference": "[[Version Control with Git.pdf]]",
-        "tags": [
-          "literature_note",
-          "Git"
-        ],
-        "type": "literature_note",
-        "created": "2024-11-21 23:22",
-        "page": null,
-        "finished": false
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "ZETA/LITERATURE/Notes/progit.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 156,
-      "nonWhitespaceCharacterCount": 149,
-      "readingTimeInMinutes": 0.018867924528301886,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1732432251112,
       "modifiedDate": 1733658202139,
       "sizeInBytes": 325,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 156,
-        "nonWhitespaceCharacterCount": 149
-      },
-      "frontmatter": {
-        "connections": [
-          "[[Books]]"
-        ],
-        "reference": "[[progit.pdf]]",
-        "tags": [
-          "literature_note",
-          "Git"
-        ],
-        "type": "literature_note",
-        "created": "2024-11-21 23:22",
-        "page": null,
-        "finished": false
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "ZETA/LITERATURE/Notes/learning-git-a-hands-on-a_7Bab7ym.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 156,
-      "nonWhitespaceCharacterCount": 149,
-      "readingTimeInMinutes": 0.018867924528301886,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1732432251109,
       "modifiedDate": 1733658199828,
       "sizeInBytes": 352,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 156,
-        "nonWhitespaceCharacterCount": 149
-      },
-      "frontmatter": {
-        "connections": [
-          "[[Books]]"
-        ],
-        "reference": "[[learning-git-a-hands-on-a_7Bab7ym.pdf]]",
-        "tags": [
-          "literature_note",
-          "Git"
-        ],
-        "type": "literature_note",
-        "created": "2024-11-21 23:22",
-        "page": null,
-        "finished": false
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "ZETA/LITERATURE/Notes/GitOps Cookbook Kubernetes Automation in Practice.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 156,
-      "nonWhitespaceCharacterCount": 149,
-      "readingTimeInMinutes": 0.018867924528301886,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1732432251109,
       "modifiedDate": 1733658196786,
       "sizeInBytes": 368,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 156,
-        "nonWhitespaceCharacterCount": 149
-      },
-      "frontmatter": {
-        "connections": [
-          "[[Books]]"
-        ],
-        "reference": "[[GitOps Cookbook Kubernetes Automation in Practice.pdf]]",
-        "tags": [
-          "literature_note",
-          "Git"
-        ],
-        "type": "literature_note",
-        "created": "2024-11-21 23:22",
-        "page": null,
-        "finished": false
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "ZETA/LITERATURE/Notes/Git. Практическое руководство.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 156,
-      "nonWhitespaceCharacterCount": 149,
-      "readingTimeInMinutes": 0.018867924528301886,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1732432251109,
       "modifiedDate": 1733658194333,
       "sizeInBytes": 371,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 156,
-        "nonWhitespaceCharacterCount": 149
-      },
-      "frontmatter": {
-        "connections": [
-          "[[Books]]"
-        ],
-        "reference": "[[Git. Практическое руководство.pdf]]",
-        "tags": [
-          "literature_note",
-          "Git"
-        ],
-        "type": "literature_note",
-        "created": "2024-11-21 23:22",
-        "page": null,
-        "finished": false
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "ZETA/LITERATURE/Notes/git-essentials-v1.0.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 156,
-      "nonWhitespaceCharacterCount": 149,
-      "readingTimeInMinutes": 0.018867924528301886,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1732432251109,
       "modifiedDate": 1733658192192,
       "sizeInBytes": 340,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 156,
-        "nonWhitespaceCharacterCount": 149
-      },
-      "frontmatter": {
-        "connections": [
-          "[[Books]]"
-        ],
-        "reference": "[[git-essentials-v1.0.pdf]]",
-        "tags": [
-          "literature_note",
-          "Git"
-        ],
-        "type": "literature_note",
-        "created": "2024-11-21 23:22",
-        "page": 66,
-        "finished": false
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "ZETA/LITERATURE/Notes/Git для профессионального программиста.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 156,
-      "nonWhitespaceCharacterCount": 149,
-      "readingTimeInMinutes": 0.018867924528301886,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1732432251109,
       "modifiedDate": 1733658187390,
       "sizeInBytes": 389,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 156,
-        "nonWhitespaceCharacterCount": 149
-      },
-      "frontmatter": {
-        "connections": [
-          "[[Books]]"
-        ],
-        "reference": "[[Git для профессионального программиста.pdf]]",
-        "tags": [
-          "literature_note",
-          "Git"
-        ],
-        "type": "literature_note",
-        "created": "2024-11-21 23:22",
-        "page": null,
-        "finished": false
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "ZETA/LITERATURE/Notes/Git Repository Management in 30 Days.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 156,
-      "nonWhitespaceCharacterCount": 149,
-      "readingTimeInMinutes": 0.018867924528301886,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1732432251106,
       "modifiedDate": 1733658189439,
       "sizeInBytes": 355,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 156,
-        "nonWhitespaceCharacterCount": 149
-      },
-      "frontmatter": {
-        "connections": [
-          "[[Books]]"
-        ],
-        "reference": "[[Git Repository Management in 30 Days.pdf]]",
-        "tags": [
-          "literature_note",
-          "Git"
-        ],
-        "type": "literature_note",
-        "created": "2024-11-21 23:22",
-        "page": null,
-        "finished": false
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "ZETA/LITERATURE/Notes/Docker Compose для разработчика.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 156,
-      "nonWhitespaceCharacterCount": 149,
-      "readingTimeInMinutes": 0.018867924528301886,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1732432251106,
       "modifiedDate": 1733856663693,
       "sizeInBytes": 413,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 156,
-        "nonWhitespaceCharacterCount": 149
-      },
-      "frontmatter": {
-        "connections": [
-          "[[Books]]",
-          "[[Containerization|Containerization]]"
-        ],
-        "reference": "[[Docker Compose для разработчика.pdf]]",
-        "tags": [
-          "literature_note",
-          "MustUse"
-        ],
-        "type": "literature_note",
-        "created": "2024-11-21 23:22",
-        "page": null,
-        "finished": false
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "ZETA/FLEETING/Blank.md": {
@@ -1253,31 +1012,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "ZETA/CHEATSHEET/Hotkeys/PowerShell (C).md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1732432251209,
-      "modifiedDate": 1733658750496,
-      "sizeInBytes": 8873,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "ZETA/CHEATSHEET/Hotkeys/Obsidian (C).md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1295,6 +1029,31 @@
       "createdDate": 1732432251208,
       "modifiedDate": 1732214122720,
       "sizeInBytes": 1071,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "ZETA/CHEATSHEET/Hotkeys/PowerShell (C).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1732432251209,
+      "modifiedDate": 1733658750496,
+      "sizeInBytes": 8873,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1503,31 +1262,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "ZETA/CHEATSHEET/Commands/_attachments/Pasted image 20241017011348.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1732432251196,
-      "modifiedDate": 1729109628642,
-      "sizeInBytes": 75927,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "ZETA/CHEATSHEET/Commands/_attachments/Pasted image 20241017011434.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1570,6 +1304,31 @@
       "createdDate": 1732432251196,
       "modifiedDate": 1729109641324,
       "sizeInBytes": 68354,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "ZETA/CHEATSHEET/Commands/_attachments/Pasted image 20241017011348.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1732432251196,
+      "modifiedDate": 1729109628642,
+      "sizeInBytes": 75927,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1920,6 +1679,81 @@
       "createdDate": 1732432251180,
       "modifiedDate": 1733659168492,
       "sizeInBytes": 694,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "SYSTEM/MOBILE HUB/Mobile Map of Content.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1732432251068,
+      "modifiedDate": 1731699277000,
+      "sizeInBytes": 37376,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "SYSTEM/MOBILE HUB/Mobile Mail Box.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1732432251067,
+      "modifiedDate": 1731673687000,
+      "sizeInBytes": 18553,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "SYSTEM/MOBILE HUB/Mobile Homepage.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1732432251067,
+      "modifiedDate": 1731464848000,
+      "sizeInBytes": 14167,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2403,31 +2237,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "SYSTEM/TEMPLATE/FORMAT/template_contact.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1732432251087,
-      "modifiedDate": 1731324902000,
-      "sizeInBytes": 1076,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "SYSTEM/TEMPLATE/FORMAT/template_cheatsheet_note.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2445,6 +2254,31 @@
       "createdDate": 1733658508662,
       "modifiedDate": 1733658616787,
       "sizeInBytes": 228,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "SYSTEM/TEMPLATE/FORMAT/template_contact.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1732432251087,
+      "modifiedDate": 1731324902000,
+      "sizeInBytes": 1076,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2753,81 +2587,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "SYSTEM/MOBILE HUB/Mobile Map of Content.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1732432251068,
-      "modifiedDate": 1731699277000,
-      "sizeInBytes": 37376,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "SYSTEM/MOBILE HUB/Mobile Mail Box.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1732432251067,
-      "modifiedDate": 1731673687000,
-      "sizeInBytes": 18553,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "SYSTEM/MOBILE HUB/Mobile Homepage.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1732432251067,
-      "modifiedDate": 1731464848000,
-      "sizeInBytes": 14167,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "SYSTEM/DESIGN/search.gif": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -2878,7 +2637,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "PARA/SOURCE/Habr.md": {
+    "HUB/Map of Content.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2892,9 +2651,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1733933881574,
-      "modifiedDate": 1733933881963,
-      "sizeInBytes": 506,
+      "createdDate": 1732432251019,
+      "modifiedDate": 1731699262000,
+      "sizeInBytes": 36775,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2903,7 +2662,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "PARA/SOURCE/Etc.md": {
+    "HUB/Mail Box.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2917,9 +2676,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1733934405872,
-      "modifiedDate": 1733934406611,
-      "sizeInBytes": 504,
+      "createdDate": 1732432251019,
+      "modifiedDate": 1731677621000,
+      "sizeInBytes": 17004,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2928,29 +2687,38 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "PARA/SOURCE/Dailydev.md": {
+    "HUB/Homepage.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 1567,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 5.223333333333334,
+      "characterCount": 19806,
+      "nonWhitespaceCharacterCount": 16296,
+      "readingTimeInMinutes": 5.913207547169812,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1733933918712,
-      "modifiedDate": 1733933919108,
-      "sizeInBytes": 506,
+      "aliases": null,
+      "createdDate": 1732432251019,
+      "modifiedDate": 1732635020456,
+      "sizeInBytes": 19923,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
+        "noteCount": 1,
+        "pageCount": 5.223333333333334,
+        "wordCount": 1567,
+        "characterCount": 19806,
+        "nonWhitespaceCharacterCount": 16296
+      },
+      "frontmatter": {
+        "textArea1": "",
+        "textArea2": "",
+        "cssclasses": [
+          "no-inline",
+          "hide-properties_editing",
+          "hide-properties_reading"
+        ]
       }
     },
     "PARA/RESOURCES/Maps/Gitlab runner setup.canvas": {
@@ -3020,6 +2788,31 @@
       "createdDate": 1732432251205,
       "modifiedDate": 1733936112199,
       "sizeInBytes": 6824,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "PARA/RESOURCES/DOCUMENTATIONS/Tauri.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1733935356499,
+      "modifiedDate": 1733935992391,
+      "sizeInBytes": 252,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3243,31 +3036,6 @@
       "createdDate": 1734851122517,
       "modifiedDate": 1734851125049,
       "sizeInBytes": 224,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "PARA/RESOURCES/DOCUMENTATIONS/Tauri.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1733935356499,
-      "modifiedDate": 1733935992391,
-      "sizeInBytes": 252,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3505,31 +3273,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "PARA/RESOURCES/DOCUMENTATIONS/NodeJS/NextJS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1732432251038,
-      "modifiedDate": 1733082912942,
-      "sizeInBytes": 288,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "PARA/RESOURCES/DOCUMENTATIONS/NodeJS/NestJS.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3547,6 +3290,31 @@
       "createdDate": 1732432251038,
       "modifiedDate": 1733082906509,
       "sizeInBytes": 411,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "PARA/RESOURCES/DOCUMENTATIONS/NodeJS/NextJS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1732432251038,
+      "modifiedDate": 1733082912942,
+      "sizeInBytes": 288,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3754,6 +3522,81 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "PARA/SOURCE/Habr.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1733933881574,
+      "modifiedDate": 1733933881963,
+      "sizeInBytes": 506,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "PARA/SOURCE/Etc.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1733934405872,
+      "modifiedDate": 1733934406611,
+      "sizeInBytes": 504,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "PARA/SOURCE/Dailydev.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1733933918712,
+      "modifiedDate": 1733933919108,
+      "sizeInBytes": 506,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "PARA/PROJECTS/README DO NOT DELETE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3798,301 +3641,151 @@
     "PARA/AREAS/DevOps/OS.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 16,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.05333333333333334,
-      "characterCount": 115,
-      "nonWhitespaceCharacterCount": 93,
-      "readingTimeInMinutes": 0.06037735849056604,
-      "linkCount": 1,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1733564517833,
       "modifiedDate": 1733659055633,
       "sizeInBytes": 233,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.05333333333333334,
-        "wordCount": 16,
-        "characterCount": 115,
-        "nonWhitespaceCharacterCount": 93
-      },
-      "frontmatter": {
-        "area": "DevOps",
-        "summary": null,
-        "tags": [
-          "area_note",
-          "area/devops/os",
-          "os"
-        ],
-        "type": "area_note",
-        "created": "2024-12-07 14:41"
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "PARA/AREAS/DevOps/Monitoring.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 16,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.05333333333333334,
-      "characterCount": 124,
-      "nonWhitespaceCharacterCount": 101,
-      "readingTimeInMinutes": 0.06037735849056604,
-      "linkCount": 1,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1733657668558,
       "modifiedDate": 1733659050243,
       "sizeInBytes": 258,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.05333333333333334,
-        "wordCount": 16,
-        "characterCount": 124,
-        "nonWhitespaceCharacterCount": 101
-      },
-      "frontmatter": {
-        "area": "DevOps",
-        "summary": null,
-        "tags": [
-          "area_note",
-          "area/devops/monitoring",
-          "monitoring"
-        ],
-        "type": "area_note",
-        "created": "2024-12-08 16:34"
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "PARA/AREAS/DevOps/Containerization.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 16,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.05333333333333334,
-      "characterCount": 119,
-      "nonWhitespaceCharacterCount": 97,
-      "readingTimeInMinutes": 0.06037735849056604,
-      "linkCount": 1,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1733564563434,
       "modifiedDate": 1733658918183,
       "sizeInBytes": 245,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.05333333333333334,
-        "wordCount": 16,
-        "characterCount": 119,
-        "nonWhitespaceCharacterCount": 97
-      },
-      "frontmatter": {
-        "area": "DevOps",
-        "summary": null,
-        "tags": [
-          "area_note",
-          "area/devops/docker",
-          "docker"
-        ],
-        "type": "area_note",
-        "created": "2024-12-07 14:42"
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "PARA/AREAS/DevOps/2. DevOps.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 141,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.47,
-      "characterCount": 1210,
-      "nonWhitespaceCharacterCount": 1045,
-      "readingTimeInMinutes": 0.5320754716981132,
-      "linkCount": 1,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1733564282522,
       "modifiedDate": 1733659033570,
       "sizeInBytes": 1344,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.47,
-        "wordCount": 141,
-        "characterCount": 1210,
-        "nonWhitespaceCharacterCount": 1045
-      },
-      "frontmatter": {
-        "area": "DevOps",
-        "area_category": "DevOps",
-        "summary": null,
-        "tags": [
-          "area_family",
-          "area/devops"
-        ],
-        "type": "area_family",
-        "created": "2024-12-07 14:38"
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "PARA/AREAS/Dev/2. Rust.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 141,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.47,
-      "characterCount": 1200,
-      "nonWhitespaceCharacterCount": 1035,
-      "readingTimeInMinutes": 0.5320754716981132,
-      "linkCount": 1,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1733935383745,
       "modifiedDate": 1733935393484,
       "sizeInBytes": 1327,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.47,
-        "wordCount": 141,
-        "characterCount": 1200,
-        "nonWhitespaceCharacterCount": 1035
-      },
-      "frontmatter": {
-        "area": "Rust",
-        "area_category": "Dev",
-        "summary": null,
-        "tags": [
-          "area_family",
-          "area/rust"
-        ],
-        "type": "area_family",
-        "created": "2024-12-11 21:43"
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "PARA/AREAS/Dev/2. NodeJS.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 141,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.47,
-      "characterCount": 1210,
-      "nonWhitespaceCharacterCount": 1045,
-      "readingTimeInMinutes": 0.5320754716981132,
-      "linkCount": 1,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1733061002882,
       "modifiedDate": 1733659005070,
       "sizeInBytes": 1341,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.47,
-        "wordCount": 141,
-        "characterCount": 1210,
-        "nonWhitespaceCharacterCount": 1045
-      },
-      "frontmatter": {
-        "area": "NodeJS",
-        "area_category": "Dev",
-        "summary": null,
-        "tags": [
-          "area_family",
-          "area/nodejs"
-        ],
-        "type": "area_family",
-        "created": "2024-12-01 18:50"
-      }
-    },
-    "HUB/Map of Content.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1732432251019,
-      "modifiedDate": 1731699262000,
-      "sizeInBytes": 36775,
-      "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "HUB/Mail Box.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1732432251019,
-      "modifiedDate": 1731677621000,
-      "sizeInBytes": 17004,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "HUB/Homepage.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1567,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.223333333333334,
-      "characterCount": 19806,
-      "nonWhitespaceCharacterCount": 16296,
-      "readingTimeInMinutes": 5.913207547169812,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1732432251019,
-      "modifiedDate": 1732635020456,
-      "sizeInBytes": 19923,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.223333333333334,
-        "wordCount": 1567,
-        "characterCount": 19806,
-        "nonWhitespaceCharacterCount": 16296
-      },
-      "frontmatter": {
-        "textArea1": "",
-        "textArea2": "",
-        "cssclasses": [
-          "no-inline",
-          "hide-properties_editing",
-          "hide-properties_reading"
-        ]
       }
     },
     "DAILY/DAILY/2025-03-09.md": {
