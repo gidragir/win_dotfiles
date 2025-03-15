@@ -257,6 +257,10 @@ keybindings:
   - commands: ["toggle-minimized"]
     bindings: ["alt+v"]
 
+  # Minimize focused window.
+  - commands: ["wm-cycle-focus"]
+    bindings: ["alt+shift+x"]
+
   # Close focused window.
   - commands: ["close"]
     bindings: ["alt+shift+q"]
